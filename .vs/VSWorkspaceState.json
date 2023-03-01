@@ -1,0 +1,13 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\helix-basic-aspnetcore",
+    "\\helix-basic-aspnetcore\\src",
+    "\\helix-basic-aspnetcore\\src\\Project",
+    "\\helix-basic-aspnetcore\\src\\Project\\BasicCompany",
+    "\\helix-basic-aspnetcore\\src\\Project\\BasicCompany\\rendering",
+    "\\helix-basic-aspnetcore\\src\\Project\\BasicCompany\\rendering\\Controllers"
+  ],
+  "SelectedNode": "\\helix-basic-aspnetcore\\src\\Project\\BasicCompany\\rendering\\Controllers\\DefaultController.cs",
+  "PreviewInSolutionExplorer": false
+}

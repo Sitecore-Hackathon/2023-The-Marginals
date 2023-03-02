@@ -1,0 +1,22 @@
+{
+  "name": "static",
+  "version": "1.0.0",
+  "description": "The Marginals Hackathon",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sitecore-Hackathon/2023-The-Marginals.git"
+  },
+  "keywords": [
+    "Hackathon"
+  ],
+  "author": "The Marginals",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sitecore-Hackathon/2023-The-Marginals/issues"
+  },
+  "homepage": "https://github.com/Sitecore-Hackathon/2023-The-Marginals#readme"
+}

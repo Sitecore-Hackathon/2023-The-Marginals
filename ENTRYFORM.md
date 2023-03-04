@@ -52,27 +52,20 @@ No
  
 for example:
 
+1. Go to the presentations tab and click presentation details.
+2. Search for the countdwn timer component.
+3. Add the countdown timer component.  
+
 ## Usage instructions
 ⟹ Provide documentation about your module, how do the users use your module, where are things located, what do the icons mean, are there any secret shortcuts etc.
 
-Go to the presentations tab and click presentation details.
-Search for the countdwn timer component.
-Add the countdown timer component. 
+As soon as you add the component you the idea was to change it with some properties. the properties will change its color, font size and font color. With that it makes it highly customazible. 
 
 
 The idea was to see the following image on the countdown timer:
 
 ![Countdowntimer](https://thiscatdoesnotexist.com/)
 
-![Hackathon Logo](docs/images/hackathon.png?raw=true "Hackathon Logo")
-
-You can embed images of different formats too:
-
-![Deal With It](docs/images/deal-with-it.gif?raw=true "Deal With It")
-
-And you can embed external images too:
-
-![Random](https://thiscatdoesnotexist.com/)
 
 ## Comments
 The purpose of the module was to enhance SXA by the count down timer in order to get a new SXA module that can be used anywhere. Seen the countdown timer in a lot of web pages. The idea was to create a template and in that template fill it in with Date, and the text for dyas, years, and months. This also works for sales that have an expiration and then get the price expiration date and see the time that it will expire. 

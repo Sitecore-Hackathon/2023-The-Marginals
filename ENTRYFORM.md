@@ -18,17 +18,13 @@ You can find a very good reference to Github flavoured markdown reference in [th
 ⟹ Adding a countdown timer to SXA Headless Module.   
 
   - Module Purpose:
-  - Genereate a new module for SXA Headless in order to provide a countdown timer that is seen on many pages. 
+ The SXA Headless Countdown Timer module is a custom module built for Sitecore Experience Accelerator (SXA) that provides a configurable countdown timer component that can be added to any page. The module allows content editors to specify the target date and time, and the component will display the remaining time in days, hours, minutes, and seconds until that date is reached. The module is built with extensibility in mind, allowing developers to customize the look and feel of the component, and integrate it with other systems or components as needed. The module can be used to create a sense of urgency or anticipation on pages, and can be easily configured to suit the needs of different sites or campaigns.
   
-
-_You can alternately paste a [link here](#docs) to a document within this repo containing the description._
 
 ## Video link
 ⟹ Provide a video highlighing your Hackathon module submission and provide a link to the video. You can use any video hosting, file share or even upload the video to this repository. _Just remember to update the link below_
 
 ⟹ [Replace this Video link](#video-link)
-
-
 
 ## Pre-requisites and Dependencies
 
@@ -68,4 +64,4 @@ The idea was to see the following image on the countdown timer:
 
 
 ## Comments
-The purpose of the module was to enhance SXA by the count down timer in order to get a new SXA module that can be used anywhere. Seen the countdown timer in a lot of web pages. The idea was to create a template and in that template fill it in with Date, and the text for dyas, years, and months. This also works for sales that have an expiration and then get the price expiration date and see the time that it will expire. 
+In conclusion, the main objective of the module was to add a countdown timer to Sitecore Experience Accelerator (SXA) in order to provide a new SXA module that can be used on any page. The countdown timer component is a commonly seen feature on many websites, and can be used to create a sense of urgency or anticipation on pages. The module was designed to provide a customizable countdown timer component that can be easily configured to suit the needs of different sites or campaigns. The component is built with a template that allows content editors to fill in the target date and time, and the text for days, years, and months. This functionality can also be used for sales that have an expiration, by specifying the price expiration date and seeing the time remaining until it expires. Overall, the module enhances the capabilities of SXA and provides an intuitive way to add a countdown timer component to any page.

@@ -9,17 +9,17 @@
 You can find a very good reference to Github flavoured markdown reference in [this cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet). If you want something a bit more WYSIWYG for editing then could use [StackEdit](https://stackedit.io/app) which provides a more user friendly interface for generating the Markdown code. Those of you who are [VS Code fans](https://code.visualstudio.com/docs/languages/markdown#_markdown-preview) can edit/preview directly in that interface too.
 
 ## Team name
-⟹ Write the name of your Hackathon team here
+⟹ The Marginals
 
 ## Category
 ⟹ Write the name of the selected category
 
 ## Description
-⟹ Write a clear description of your hackathon entry.  
+⟹ Adding a countdown timer to SXA Headless Module.   
 
-  - Module Purpose
-  - What problem was solved (if any)
-    - How does this module solve it
+  - Module Purpose:
+  - Genereate a new module for SXA Headless in order to provide a countdown timer that is seen on many pages. 
+  
 
 _You can alternately paste a [link here](#docs) to a document within this repo containing the description._
 
@@ -33,12 +33,7 @@ _You can alternately paste a [link here](#docs) to a document within this repo c
 ## Pre-requisites and Dependencies
 
 ⟹ Does your module rely on other Sitecore modules or frameworks?
-
-- List any dependencies
-- Or other modules that must be installed
-- Or services that must be enabled/configured
-
-_Remove this subsection if your entry does not have any prerequisites other than Sitecore_
+No
 
 ## Installation instructions
 ⟹ Write a short clear step-wise instruction on how to install your module.  
@@ -57,19 +52,17 @@ _Remove this subsection if your entry does not have any prerequisites other than
  
 for example:
 
-1. Use the Sitecore Installation wizard to install the [package](#link-to-package)
-2. ...
-3. profit
-
-### Configuration
-⟹ If there are any custom configuration that has to be set manually then remember to add all details here.
-
-_Remove this subsection if your entry does not require any configuration that is not fully covered in the installation instructions already_
-
 ## Usage instructions
 ⟹ Provide documentation about your module, how do the users use your module, where are things located, what do the icons mean, are there any secret shortcuts etc.
 
-Include screenshots where necessary. You can add images to the `./images` folder and then link to them from your documentation:
+Go to the presentations tab and click presentation details.
+Search for the countdwn timer component.
+Add the countdown timer component. 
+
+
+The idea was to see the following image on the countdown timer:
+
+![Countdowntimer](https://thiscatdoesnotexist.com/)
 
 ![Hackathon Logo](docs/images/hackathon.png?raw=true "Hackathon Logo")
 
@@ -82,4 +75,4 @@ And you can embed external images too:
 ![Random](https://thiscatdoesnotexist.com/)
 
 ## Comments
-If you'd like to make additional comments that is important for your module entry.
+The purpose of the module was to enhance SXA by the count down timer in order to get a new SXA module that can be used anywhere. Seen the countdown timer in a lot of web pages. The idea was to create a template and in that template fill it in with Date, and the text for dyas, years, and months. This also works for sales that have an expiration and then get the price expiration date and see the time that it will expire. 

@@ -12,7 +12,7 @@ You can find a very good reference to Github flavoured markdown reference in [th
 ⟹ The Marginals
 
 ## Category
-⟹ Write the name of the selected category
+⟹ SXA Headless Enhancement
 
 ## Description
 ⟹ Adding a countdown timer to SXA Headless Module.   

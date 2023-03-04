@@ -66,7 +66,7 @@ As soon as you add the component you the idea was to change it with some propert
 
 The idea was to see the following image on the countdown timer:
 
-![Countdowntimer]([https://thiscatdoesnotexist.com/](https://ibb.co/DCGSPzC))
+![Countdowntimer]([https://ibb.co/DCGSPzC])
 
 
 ## Comments

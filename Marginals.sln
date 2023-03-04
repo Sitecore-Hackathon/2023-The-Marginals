@@ -7,6 +7,12 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Marginals.Feature.Countdown
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Marginals.Project.Website", "src\Project\Website\code\Marginals.Project.Website.csproj", "{26B06760-DE03-410C-89FA-881C2DE3DB07}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Feature", "Feature", "{B2FDC574-03A5-4D4A-BF68-B016B158D399}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Foundation", "Foundation", "{03F5BA5B-A856-439B-AFDF-A9AC94DA92B6}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Project", "Project", "{A74D57C4-7ACC-4190-A534-EBB3736B0D87}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -24,6 +30,10 @@ Global
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{E806C45E-6C76-449B-95E0-EBC5540A31E3} = {B2FDC574-03A5-4D4A-BF68-B016B158D399}
+		{26B06760-DE03-410C-89FA-881C2DE3DB07} = {A74D57C4-7ACC-4190-A534-EBB3736B0D87}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {205FC2F1-BF8F-4E1A-A815-72B01308BCD9}
